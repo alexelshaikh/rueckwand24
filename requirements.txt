@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=2.0
+aiomysql
+pydantic
+passlib[bcrypt]==1.7.4
+bcrypt==3.2.2
+python-jose[cryptography]
+Pillow
+email-validator
+python-multipart
+pytest
